@@ -1,5 +1,6 @@
-1696183519241: /about?myName=Priyaranjan&userID=1 New req received
-1696183692808: /about?myName=Priyaranjan&userID=1 New req received
-1696183832034: /about?myName=Priyaranjan&userID=1 New req received
-1696183904327: /about?myName=RuchiGandu&userID=1 New req received
-1696184428417: /search?search_query=javascript+tic+tac+toe New req received
+1696185658138: GET /about New req received
+1696186055700: GET /signup New req received
+1696186177382: GET /signup New req received
+1696225586881: GET /signup New req received
+1696230379498: GET /signup New req received
+1696230381170: GET /signup New req received
