@@ -1,0 +1,13 @@
+// Rest Api
+Principals  of Rest Api
+1)Client and server are running on different machines
+2)Always respect all http methods
+    GET POST PUT PATCH DELETE
+    EX:
+        GET /USER - read user data and return the same data
+        POST /USER - handle new user creation
+        PATCH /user - update the user information
+        
+        Don't use below because PATCH method is already there
+        PATCH /update user
+
